@@ -56,9 +56,9 @@ Config = {
         items = {
             {name = "water", label = "Eau", price = 50},
             {name = "coffe", label = "Café", price = 65},
-			{name = "milk", label = "Lait", price = 75},
-			{name = "cocacola", label = "Coca cola", price = 90},
-			{name = "icetea", label = "Icetea", price = 100}
+	    {name = "milk", label = "Lait", price = 75},
+	    {name = "cocacola", label = "Coca cola", price = 90},
+	    {name = "icetea", label = "Icetea", price = 100}
     }
 },
  
@@ -67,10 +67,10 @@ Config = {
 		name = "Vivres", -- Changer le nom de la catégorie
         items = {
             {name = "bread", label = "Pain", price = 50},
-			{name = "cupcake", label = "CupCake", price = 60},
-			{name = "sandwich", label = "Sandwich", price = 75},
-			{name = "chocolate", label = "Chocolat", price = 100},
-			{name = "hamburger", label = "Hamburger", price = 125}
+	    {name = "cupcake", label = "CupCake", price = 60},
+	    {name = "sandwich", label = "Sandwich", price = 75},
+	    {name = "chocolate", label = "Chocolat", price = 100},
+	    {name = "hamburger", label = "Hamburger", price = 125}
     }
 },
 
@@ -79,7 +79,7 @@ Config = {
 		name = "Divers", -- Changer le nom de la catégorie
         items = {
             {name = "cigarett", label = "Cigarette", price = 25},
-			{name = "lighter", label = "Briquet", price = 50}
+	    {name = "lighter", label = "Briquet", price = 50}
     }
 },
 
